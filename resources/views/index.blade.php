@@ -148,6 +148,8 @@ $('#sidebarCollapse').on('click', function () {
             <h3>Bootstrap Sidebar</h3>
         </div>
 
+<!-- refdedd -->
+
         <ul class="list-unstyled components">
             <p>Dummy Heading</p>
             <li class="active">
